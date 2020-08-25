@@ -1,0 +1,94 @@
+{
+  "pizza": [
+    {
+      "id": 0,
+      "imgUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+      "name": "Чизбургер-пицца",
+      "types": [1],
+      "sizes": [25, 33, 40],
+      "price": 245,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imgUrl": "https://cdn.dodostatic.net/static/Img/Products/5dffe4c7d3bc49668f50c1d08d920992_584x584.jpeg",
+      "name": "Пепперони Фреш",
+      "types": [0, 1],
+      "sizes": [25, 33],
+      "price": 245,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/f8ea1b5e-671d-4460-9e3d-ce720b95a1ce.jpg",
+      "name": "Сырная",
+      "types": [0, 1],
+      "sizes": [25, 33, 40],
+      "price": 245,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/e9c5aec6-2675-4b43-90c9-8013f8bfda99.jpg",
+      "name": "Цыпленок",
+      "types": [0, 1],
+      "sizes": [25, 33, 40],
+      "price": 295,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/362468e7-e8d3-4fda-ab66-91f4dbd56122.jpg",
+      "name": "Ветчина и сыр",
+      "types": [0, 1],
+      "sizes": [25, 33, 40],
+      "price": 245,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://cdn.dodostatic.net/static/Img/Products/26fa2948b6c74113afb9d09a3262fc26_584x584.jpeg",
+      "name": "Ветчина и грибы",
+      "types": [0, 1],
+      "sizes": [25, 40],
+      "price": 245,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/7b0f5854-e9b2-4876-9da7-2985c1863cbd.jpg",
+      "name": "Мясная",
+      "types": [0, 1],
+      "sizes": [25, 33, 40],
+      "price": 295,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "name": "Цыпленок барбекю",
+      "types": [0],
+      "sizes": [25, 33, 40],
+      "price": 295,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/5eb7828f-ee6b-44d8-a2ce-058ebf36094e.jpg",
+      "name": "Итальянская",
+      "types": [0, 1],
+      "sizes": [25, 33],
+      "price": 295,
+      "category": 0,
+      "rating": 4
+    }
+  ]
+}
